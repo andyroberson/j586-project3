@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<obesity>
+  <year date="1973">
+    <percent>0.13729208</percent>
+  </year>
+  <year date="1978">
+    <percent>0.153667797</percent>
+  </year>
+  <year date="1991">
+    <percent>0.218197715</percent>
+  </year>
+  <year date="1999">
+    <percent>0.293764348</percent>
+  </year>
+  <year date="2001">
+    <percent>0.294055912</percent>
+  </year>
+  <year date="2003">
+    <percent>0.312568233</percent>
+  </year>
+  <year date="2005">
+    <percent>0.33145611</percent>
+  </year>
+  <year date="2007">
+    <percent>0.32406105</percent>
+  </year>
+  <year date="2009">
+    <percent>0.345721538</percent>
+  </year>
+  <year date="2011">
+    <percent>0.344361112</percent>
+  </year>
+</obesity>
+
+<!--
+<FIELD1>USA</FIELD1>
+<FIELD2>Overweight+Obesity</FIELD2>
+<FIELD3>0.450637565</FIELD3> //1973
+<FIELD4>0.430043045</FIELD4>
+<FIELD5>0.53089527</FIELD5>
+<FIELD6>0.615777005</FIELD6>
+<FIELD7>0.625957795</FIELD7>
+<FIELD8>0.636498406</FIELD8>
+<FIELD9>0.645068467</FIELD9>
+<FIELD10>0.650320251</FIELD10>
+<FIELD11>0.660547772</FIELD11>
+<FIELD12>0.653370487</FIELD12>
+</ROW>
+<ROW>
+<FIELD1>Measured</FIELD1>
+<FIELD2>Overweight</FIELD2>
+<FIELD3>0.313345485</FIELD3>
+<FIELD4>0.276375248</FIELD4>
+<FIELD5>0.312697555</FIELD5>
+<FIELD6>0.322012657</FIELD6>
+<FIELD7>0.331901883</FIELD7>
+<FIELD8>0.323930173</FIELD8>
+<FIELD9>0.313612357</FIELD9>
+<FIELD10>0.3262592</FIELD10>
+<FIELD11>0.314826234</FIELD11>
+<FIELD12>0.309009375</FIELD12>
+-->

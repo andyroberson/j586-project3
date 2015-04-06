@@ -1,0 +1,110 @@
+/*add min-height stuff to divs like in a1*/
+
+body {
+  background: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.3em;
+  color: #000;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5em;
+  color: #000;
+  font-weight: bold;
+}
+
+h3 {
+  border-bottom: 1px solid #d3d3d3;
+}
+
+.img-responsive-vertical {
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+}
+
+.logo {
+  padding: 1em;
+}
+
+.border-black {
+  border-bottom: solid 2em #000;
+}
+
+.border {
+  border-top: solid 3px #d3d3d3;
+}
+
+.border-bottom {
+  border-bottom: solid 3px #d3d3d3;
+}
+
+.border-sm {
+  border-top: solid 1px #d3d3d3;
+}
+
+.border-side {
+  border-left: solid 1px #d3d3d3;
+  border-right: solid 1px #d3d3d3;
+}
+
+.fact-c {
+  padding: 1em;
+  margin: .5em;
+}
+
+.fact-r {
+  padding: 1em;
+}
+
+.container {
+  background: #fff;
+}
+
+.header {
+    min-height: 10px;
+}
+
+.top-min-height {
+    min-height: 400px;
+    height: 25%;
+}
+
+.chart-one {
+}
+
+.fact-column {
+}
+
+.fact-row {
+    min-height: 200px;
+    padding: 1em;
+}
+
+.obesity-map {
+    min-height: 400px;
+}
+
+.data-chart {
+
+}
+
+.footer {
+    min-height: 50px;
+}
+
+.display-center {
+  text-align: center;
+}
+
+#map, #map2003, #map2004, #map2005, #map2006, #map2007, #map2008, #map2009, #map2010, #map2011 {
+  border: 0px solid #000;
+  display: inline-block;
+}
